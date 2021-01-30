@@ -11,5 +11,8 @@ __Data update:__ At first, it was very difficult for me to find a global geojson
 
 ### Concerns 
 __Major Concerns__
+- One of the things that I am concerned about is time management. As I am taking 5 classes this quarter, I am afraid that I might not be able to spend as much time on this project as I want to, especially when I don't have a partner. However, I will try to put as much effort as I can and seek help when I need to.
+- One problem I have noticed in my coral bleaching dataset is that it has a very irregular data collection pattern and it might be difficult for me to compare coral bleaching status across time. I will explore the dataset more and figure out something significant to show. 
+
 __Minor Concerns__
-There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
+- While I was doing the coding assignments, I noticed that I often had to go back to the lecture notes because I forget how to write certain codes. Of course, some syntax like the subplot code is quite complex, but I hope I can practice coding more so that I don't have to go back and forth as often. 
