@@ -1,7 +1,7 @@
 ## Coral Mapping Project
 
 
-[Link to Project Proposal](https://github.com/yjwsb233/Coral/edit/main/README.md)
+[Link to Project Proposal](https://github.com/yjwsb233/Coral)
 
 __Member:__ Haiqi
 
