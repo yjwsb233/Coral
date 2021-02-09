@@ -1,12 +1,3 @@
-
-An introduction of your research question
-An explanation of why it is important to you, why it matters to others, and what is at stake
-A description of the spatial scope (e.g. Boyle Heights or Hong Kong), and why space and/or time matters for your project
-A preliminary but definitive description of data sources (at least two) that you will use
-Include datasource with links
-A scope that explains the intended analysis and resulting visualizations for your project
-A concluding paragraph of what insights you expect to gain from your research
-
 # Coral Mapping Project Proposal
 Welcome to the page of Haiqi's Coral Reef mapping project! Below is an image of __coral bleaching__, which happens when corals are met with external stimuli, such as elevated temperature, and begin to die. In this [link](https://oceanservice.noaa.gov/facts/coral_bleach.html#:~:text=Warmer%20water%20temperatures%20can%20result,bleaches%2C%20it%20is%20not%20dead), you can find a brief introduction to coral bleaching provided by the National Oceanic and Atmospheric Administration.
 ![alt text](https://github.com/yjwsb233/Coral/blob/main/Pasted_image_at_2017_04_18_03_43_PM.0.jpeg)
@@ -23,7 +14,10 @@ I was lucky to find a dataset of global coral bleaching on the Harvard Dataverse
 The second dataset that I will use is a GeoJSON file that documents the the population og each country in the world from 1960 to 2019. The dataset was created by Yoh because it seems that we are unable to find an exisdting GeoJSON file of world population on the Internet. It is very helpful in the sense that it covers the whole time span that the coral bleaching dataset covers. What is more, this file has a gelospatial component, which means that it can be combined to other datasets with information about different countries. For example, by pairing the this GeoJSON file with a plastic generation by country dataset using country code as a key field, we can generate a chloropleth map that shows the countries with more plastic generation in darker colors, as shown in the above map.
 
 ### Pollution and Other Anthropogenic Threats to the Environment
+To find out the relationship between coral bleaching and anthropogenic factors, it will be useful to look at factors such as pollution. I found a very user-friendly website called [Our World in Data](https://ourworldindata.org/air-pollution), on which there is information about air pollution, plastic generation, water use and a lot more other topics. The website has downloadble csv files that often contains information that spans over a decade, which helps provide useful comparison with the coral bleaching dataset.  
 
+## Intended output
+In terms of visualizations, I will try to produce intereactive maps that allow people to zoom in to different parts of the world. I also want to try to produce a more sophisticated version of the map shown above to see if there is a correlation between a specific factor and coral bleaching.
 
 ## Conclusion
-There are a lot more datasets that could be paired with the coral bleaching data – the population dataset is just one of many examples. My next step would be to find more relevant datasets that might demonstrate factors that correlate with coral bleaching. 
+So far, I believe that the project has taken shape and it is going in the right direction. My main focus now would be to produce better visualizations with the programming knowledge we learned in class. Overall, I believe this project would turn out great. 
