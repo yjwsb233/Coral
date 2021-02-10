@@ -24,6 +24,7 @@ In terms of visualizations, I will try to produce intereactive maps that allow p
 
 ## Python data exploration
 [uploaded GitHub file](https://github.com/yjwsb233/Coral/blob/main/Week%205%20Data%20Exploration%20(1).ipynb)
+
 [Jupyter Hub](https://jupyter.idre.ucla.edu/user/haiqi@ucla.edu/notebooks/21W-DH140/Weeks/Week04/Week%205%20Data%20Exploration.ipynb#)
 
 ## Conclusion
