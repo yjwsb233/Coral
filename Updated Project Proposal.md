@@ -22,5 +22,9 @@ In terms of visualizations, I will try to produce intereactive maps that allow p
 ## Presentation
 [Link](https://docs.google.com/presentation/d/1z0hzVbu3L1AY3euGS2-rqUir-C0i2YAvGQFS517Eh3I/edit?usp=sharing) to Google slide
 
+## Python data exploration
+[uploaded GitHub file](https://github.com/yjwsb233/Coral/blob/main/Week%205%20Data%20Exploration%20(1).ipynb)
+[Jupyter Hub](https://jupyter.idre.ucla.edu/user/haiqi@ucla.edu/notebooks/21W-DH140/Weeks/Week04/Week%205%20Data%20Exploration.ipynb#)
+
 ## Conclusion
 So far, I believe that the project has taken shape and it is going in the right direction. My main focus now would be to produce better visualizations with the programming knowledge we learned in class. Overall, I believe this project would turn out great. 
