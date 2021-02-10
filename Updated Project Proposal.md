@@ -19,5 +19,8 @@ To find out the relationship between coral bleaching and anthropogenic factors, 
 ## Intended output
 In terms of visualizations, I will try to produce intereactive maps that allow people to zoom in to different parts of the world. I also want to try to produce a more sophisticated version of the map shown above to see if there is a correlation between a specific factor and coral bleaching.
 
+## Presentation
+[Link](https://docs.google.com/presentation/d/1z0hzVbu3L1AY3euGS2-rqUir-C0i2YAvGQFS517Eh3I/edit?usp=sharing) to Google slide
+
 ## Conclusion
 So far, I believe that the project has taken shape and it is going in the right direction. My main focus now would be to produce better visualizations with the programming knowledge we learned in class. Overall, I believe this project would turn out great. 
